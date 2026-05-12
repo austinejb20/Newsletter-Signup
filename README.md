@@ -1,0 +1,14 @@
+# Newsletter Signup
+- A clean and responsive newsletter sign up form designed to help users subscribe for updates, news, and announcements.
+- ## Features
+- Email subscription form
+- Subscribe button functionality
+- helpful subscription tips
+- Responsive design
+- clean and modern UI
+- Simple and user-friendly layout
+- ## Technology Used
+- HTML
+- CSS
+- ## Author
+- Austine 
